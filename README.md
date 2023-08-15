@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @killmonger9653
-- 👀 I’m interested in onpensource Contribution 
+- 👀 I’m interested in opensource Contribution 
 - 🌱 I’m currently learning Computer science engineering and cybersecurity 
 - 💞️ I’m looking to collaborate on opensource projects 
 - 📫 reach me through Mail aryanshukkla@gmail.com 
